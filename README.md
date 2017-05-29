@@ -1,5 +1,5 @@
-# hello
-First One
-Hi, Sumeet here.
+This is my machine learning project
 
-I like machine learning and deep learning
+
+
+Some of which are in Matlab and the later ones in Python
